@@ -24,6 +24,8 @@
   font-style: italic;
 }
 
+/* Changing the Navbar text color to be darker - easier to read on a light background header image. */
+
 /* Making the "text-muted" class smaller, seems a bit too large. */
 .text-muted {
   font-size: 97%;
