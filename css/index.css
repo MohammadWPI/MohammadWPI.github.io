@@ -24,16 +24,6 @@
   font-style: italic;
 }
 
-/* Changing the Navbar text color to be darker - easier to read on a light background header image. */
-#mainNav .navbar-brand,
-#mainNav .navbar-nav .nav-item .nav-link {
-  color: #fff !important;
-}
-#mainNav .navbar-brand:hover,
-#mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #fff !important;
-}
-
 /* Making the "text-muted" class smaller, seems a bit too large. */
 .text-muted {
   font-size: 97%;
